@@ -7,5 +7,9 @@ parameters:
         - src
     excludePaths:
         - src/tests (?)
+        - src/Tests (?)
+        - src/slow_tests (?)
+        - slow_tests (?)
         - tests (?)
+        - Tests (?)
     reportUnmatchedIgnoredErrors: false
